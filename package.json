@@ -18,6 +18,9 @@
 	"bugs": {
 		"url": "https://github.com/trenaryja/json-2-scss/issues"
 	},
+	"publishConfig": {
+		"access": "public"
+	},
 	"files": [
 		"dist"
 	],
